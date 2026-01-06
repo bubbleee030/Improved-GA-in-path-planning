@@ -1,4 +1,3 @@
-# Improved-GA-in-path-planning
 
 # 改進遺傳演算法在路徑規劃中的應用 (Application of Improved GAs in Path Planning)
 
